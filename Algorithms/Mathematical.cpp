@@ -1,3 +1,8 @@
+/*
+    I learn DSA from G4G, this is my solution for more problem in this:
+    https://www.geeksforgeeks.org/mathematical-algorithms-difficulty-wise/
+*/
+
 # include <bits/stdc++.h>
 
 using namespace std;
@@ -987,12 +992,8 @@ class Hard{
 
 int main()
 {
-
     Basic  bs;
     Easy   ez;
     Medium md;
     Hard   hd;
-
 }   
-
-
